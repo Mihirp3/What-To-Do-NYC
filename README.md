@@ -1,0 +1,4 @@
+This is a project I created alongside group members in a class. It is meant to provide recommendations for restaurants and movies to watch in New York City based on initial preferences specificied by the user. The data was gathered through querying Yelp's API as well as scraping IMDb's websites for content on streaming services as well as those in theaters. Our recommendation was based on a composite score that took into account preferences and the quality of the movie/restaurant. We used Kmodes clustering for both the restaurants and the movies on the basis of cuisine and genre, respectively. 
+
+
+# New_repo
